@@ -1,0 +1,29 @@
+.calc_button{
+    font-size: 1.4em;
+    background-color: var(--bg-button);
+    border: none;
+    border-right: var(--border-button);
+    border-bottom: var(--border-button);
+    outline: none;
+}
+
+.calc_button:active {
+    background-color: var(--bg-button-active);
+}
+
+.button_2col{
+    grid-column: span 2;
+}
+
+.button_3col{
+    grid-column: span 3;
+}
+
+.button_operation{
+    background-color: #fa8231;
+    color: white;
+}
+.button_operation:active{
+    background-color: #d66e29;
+
+}

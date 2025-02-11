@@ -1,0 +1,7 @@
+:root{
+
+    /* Colors */    
+    --bg-button: #f0f0f0; 
+    --bg-button-active: #ccc;
+    --border-button: 1px solid #888;    
+}
